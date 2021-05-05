@@ -1,0 +1,5 @@
+Copyright (C) Uniwersytet Warszawski
+
+Należy zaprogramować implementację topol.ml załączonej specyfikacji topol.mli.
+
+W implementacji można korzystać z modułu pMap (bardzo podobnego do pSet z poprzedniego zadania), którego specyfikacja i implementacja również są załączone.
