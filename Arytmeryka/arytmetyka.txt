@@ -1,3 +1,5 @@
+Copyright (C) Uniwersytet Warszawski
+
 Arytmetyka przybliżonych wartości
 Tam gdzie dokonujemy pomiarów wielkości fizycznych, wyniki są obarczone pewnym błędem, np. 5m ± 10%. Każdą taką przybliżoną wartość traktujemy jak zbiór możliwych wartości. Zaimplementuj pakiet operacji arytmetycznych na takich przybliżonych wartościach zawierający:
 
