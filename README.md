@@ -9,6 +9,6 @@ Each directory contains:
 * My own solution in Ocaml (_.ml_)
 * Some task contain _Ocaml libraries_ provided with the assignment. (_.ml, .mli_)
 
-The tasks, interfaces and solutions are in Polish as demanded by the lecturer.
+The tasks, interfaces and solutions are usually in Polish as demanded by the lecturer.
 
  
