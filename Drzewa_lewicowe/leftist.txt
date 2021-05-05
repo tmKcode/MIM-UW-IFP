@@ -1,3 +1,5 @@
+Copyright (C) Uniwersytet Warszawski
+
 Używając drzew lewicowych zaimplementuj złączalną kolejkę priorytetową z następującymi operacjami:
 
 type 'a queue (** Typ złączalnej kolejki priorytetowej *) 
